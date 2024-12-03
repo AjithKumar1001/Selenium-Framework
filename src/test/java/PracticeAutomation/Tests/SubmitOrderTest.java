@@ -17,6 +17,7 @@ import PracticeAutomation.pageObejcts.checkOutPage;
 import PracticeAutomation.pageObejcts.confirmationPage;
 
 public class SubmitOrderTest extends BaseTest {
+	//new comments are added
 
 	String productName = "ZARA COAT 3";
 
